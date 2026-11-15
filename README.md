@@ -1,85 +1,149 @@
-<div align="center">Hi, I'm Fernando Alcaraz 👋
-¡Hola! Soy Fernando Alcaraz
-Software Development Student | Cybersecurity Enthusiast
-Estudiante de Desarrollo de Software | Entusiasta de la Ciberseguridad
+[README_Fernando_FINAL.md](https://github.com/user-attachments/files/34864125/README_Fernando_FINAL.md)
+<div align="center">
+
+<h1>Hi, I'm Fernando Alcaraz 👋</h1>
+<h3>¡Hola! Soy Fernando Alcaraz</h3>
+
+**Software Development Student | Cybersecurity Enthusiast**  
+**Estudiante de Desarrollo de Software | Entusiasta de la Ciberseguridad**
 
 I enjoy building useful software, exploring how systems work, and learning how to make technology more secure.
+
 Me gusta crear software útil, explorar cómo funcionan los sistemas y aprender a hacer la tecnología más segura.
-<a href="https://github.com/FernandoAlcaraz115">
-  <img src="https://img.shields.io/badge/GitHub-FernandoAlcaraz115-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-</a></div>👨‍💻 About Me | Sobre mí
+
+[![GitHub](https://img.shields.io/badge/GitHub-FernandoAlcaraz115-181717?style=for-the-badge&logo=github)](https://github.com/FernandoAlcaraz115)
+
+</div>
+
+---
+
+## 👨‍💻 About Me | Sobre mí
+
 - 🎓 I'm a software development student. / Soy estudiante de desarrollo de software.
 - 💻 I enjoy learning by building projects and experimenting with different technologies. / Me gusta aprender desarrollando proyectos y experimentando con distintas tecnologías.
 - 🧩 I'm interested in software engineering, application development, networks, and systems administration. / Me interesan la ingeniería de software, el desarrollo de aplicaciones, las redes y la administración de sistemas.
 - 🔐 I'm developing my skills in cybersecurity and ethical hacking. / Estoy desarrollando mis habilidades en ciberseguridad y hacking ético.
 - 🧠 I'm also interested in applied AI research, especially hallucination detection in large language models. / También me interesa la investigación aplicada en IA, especialmente la detección de alucinaciones en modelos de lenguaje.
 - 🚀 My goal is to keep growing as an engineer and contribute to technology projects with real-world impact. / Mi objetivo es seguir creciendo como ingeniero y contribuir a proyectos tecnológicos con impacto real.
-🛠️ Tech Stack & Tools | Tecnologías y herramientas
-Tools and technologies I've used or am currently learning. This list reflects hands-on experience and ongoing learning, not necessarily professional mastery.
-Herramientas y tecnologías con las que he trabajado o que estoy aprendiendo. Esta lista refleja experiencia práctica y aprendizaje continuo, no necesariamente dominio profesional.
-Programming Languages | Lenguajes de programación
+
+---
+
+## 🛠️ Tech Stack & Tools | Tecnologías y herramientas
+
+*Tools and technologies I've used or am currently learning. This list reflects hands-on experience and ongoing learning, not necessarily professional mastery.*
+
+*Herramientas y tecnologías con las que he trabajado o que estoy aprendiendo. Esta lista refleja experiencia práctica y aprendizaje continuo, no necesariamente dominio profesional.*
+
+### Programming Languages | Lenguajes de programación
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,haskell,js" alt="Python, Java, Haskell and JavaScript" />
-</p>Development & Tools | Desarrollo y herramientas
+</p>
+
+### Development & Tools | Desarrollo y herramientas
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,flutter,firebase,react" alt="Git, GitHub, Linux, VS Code, HTML, CSS, Flutter, Firebase and React" />
-</p>Networking & Systems | Redes y sistemas
+</p>
+
+### Networking & Systems | Redes y sistemas
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,bash" alt="Windows, Linux and Bash" />
-</p><p align="left">
-  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer" title="Cisco Packet Tracer">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" height="42" alt="Cisco Packet Tracer" />
+</p>
+
+<p align="left">
+  <a href="https://www.netacad.com/cisco-packet-tracer">
+    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" title="Oracle VM VirtualBox">
-    <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="42" height="42" alt="Oracle VM VirtualBox" />
+  <a href="https://www.virtualbox.org/">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Oracle VM VirtualBox" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer" title="Windows Server">
-    <img src="https://cdn.simpleicons.org/windows/0078D4" width="42" height="42" alt="Windows Server" />
+  <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer" title="Kali Linux">
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="42" height="42" alt="Kali Linux" />
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   </a>
-</p><p align="left">
-  <sub>Cisco Packet Tracer · Oracle VM VirtualBox · Windows Server · Kali Linux</sub>
-</p>🚀 Featured Projects | Proyectos destacados
-🏙️ UrbanFix
+</p>
+
+---
+
+## 🚀 Featured Projects | Proyectos destacados
+
+### 🏙️ UrbanFix
+
 A citizen-reporting platform to identify and track urban infrastructure issues in Morelia, Michoacán, Mexico. The project includes a citizen-facing application and an administrative dashboard.
+
 Plataforma de reportes ciudadanos para identificar y dar seguimiento a problemas de infraestructura urbana en Morelia, Michoacán, México. El proyecto contempla una aplicación para ciudadanos y un panel administrativo.
 
-🌐 NetTutor AI
+[![View repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/FernandoAlcaraz115/UrbanFix)
+
+### 🌐 NetTutor AI
+
 An intelligent networking lab concept designed to support learning through guided assistance with networking exercises and practices.
+
 Concepto de laboratorio inteligente de redes diseñado para apoyar el aprendizaje mediante orientación y asistencia en ejercicios y prácticas de networking.
 
-🧠 LLM Hallucination Detection | Detección de alucinaciones en LLMs
-A research project exploring methods to identify potentially incorrect or unsupported responses generated by large language models.
-Proyecto de investigación que explora métodos para identificar respuestas potencialmente incorrectas o no sustentadas generadas por modelos de lenguaje.
-A public repository will be added when available. / El repositorio público se añadirá cuando esté disponible.
+[![View repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/FernandoAlcaraz115/NetTutor-AI)
 
-📚 Currently Learning | Actualmente aprendiendo
+### 🧠 LLM Hallucination Detection | Detección de alucinaciones en LLMs
+
+A research project exploring methods to identify potentially incorrect or unsupported responses generated by large language models.
+
+Proyecto de investigación que explora métodos para identificar respuestas potencialmente incorrectas o no sustentadas generadas por modelos de lenguaje.
+
+> A public repository will be added when available. / El repositorio público se añadirá cuando esté disponible.
+
+---
+
+## 📚 Currently Learning | Actualmente aprendiendo
+
 - Software engineering and application development. / Ingeniería de software y desarrollo de aplicaciones.
 - Cybersecurity fundamentals and ethical hacking practices. / Fundamentos de ciberseguridad y prácticas de hacking ético.
 - Computer networks, switching, and routing. / Redes de computadoras, switching y routing.
 - Linux environments and systems administration. / Entornos Linux y administración de sistemas.
 - Artificial intelligence and language model evaluation. / Inteligencia artificial y evaluación de modelos de lenguaje.
-📊 GitHub Stats | Estadísticas de GitHub
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=FernandoAlcaraz115&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Fernando's GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAlcaraz115&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" /><img src="https://streak-stats.demolab.com?user=FernandoAlcaraz115&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></div>🤝 Connect With Me | Conecta conmigo
-<div align="center"><a href="mailto:fernandoalcaraz115@gmail.com" title="Email | Correo electrónico">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" />
+
+---
+
+## 📊 GitHub Stats | Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FernandoAlcaraz115&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<br/>
+
+[![GitHub Profile](https://img.shields.io/badge/Visit_my_GitHub_Profile-181717?style=for-the-badge&logo=github)](https://github.com/FernandoAlcaraz115)
+
+</div>
+
+---
+
+## 🤝 Connect With Me | Conecta conmigo
+
+<div align="center">
+
+<a href="mailto:fernandoalcaraz115@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/fernando-alcaraz-71649a384/" title="LinkedIn">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/fernando-alcaraz-71649a384/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/fernando_alcaraz935/" title="Instagram">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" />
+<a href="https://www.instagram.com/fernando_alcaraz935/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/FernandoAlcaraz115" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" />
-</a></div><div align="center">Always learning. Always building. Always improving. 🚀
-Siempre aprendiendo. Siempre construyendo. Siempre mejorando.
+<a href="https://github.com/FernandoAlcaraz115">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<div align="center">
+
+**Always learning. Always building. Always improving.** 🚀
+
+**Siempre aprendiendo. Siempre construyendo. Siempre mejorando.**
+
 </div>
