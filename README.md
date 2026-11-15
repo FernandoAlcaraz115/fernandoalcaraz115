@@ -15,22 +15,36 @@ Me gusta crear software útil, explorar cómo funcionan los sistemas y aprender 
 - 🧠 I'm also interested in applied AI research, especially hallucination detection in large language models. / También me interesa la investigación aplicada en IA, especialmente la detección de alucinaciones en modelos de lenguaje.
 - 🚀 My goal is to keep growing as an engineer and contribute to technology projects with real-world impact. / Mi objetivo es seguir creciendo como ingeniero y contribuir a proyectos tecnológicos con impacto real.
 🛠️ Tech Stack & Tools | Tecnologías y herramientas
-Tools and technologies I've used or am currently learning. The list reflects hands-on experience and ongoing learning, not necessarily professional mastery.
-Herramientas y tecnologías con las que he trabajado o que estoy aprendiendo. La lista refleja experiencia práctica y aprendizaje continuo, no necesariamente dominio profesional.
+Tools and technologies I've used or am currently learning. This list reflects hands-on experience and ongoing learning, not necessarily professional mastery.
+Herramientas y tecnologías con las que he trabajado o que estoy aprendiendo. Esta lista refleja experiencia práctica y aprendizaje continuo, no necesariamente dominio profesional.
 Programming Languages | Lenguajes de programación
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,haskell,js" alt="Python, Java, Haskell and JavaScript" />
 </p>Development & Tools | Desarrollo y herramientas
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css,flutter,firebase,react" alt="Git, GitHub, Linux, VS Code, HTML, CSS, Flutter, Firebase and React" />
 </p>Networking & Systems | Redes y sistemas
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,bash" alt="Windows, Linux and Bash" />
-</p>- Cisco Packet Tracer
-- VirtualBox
-- Windows Server
-- Kali Linux
-🚀 Featured Projects | Proyectos destacados
+</p><p align="left">
+  <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer" title="Cisco Packet Tracer">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" height="42" alt="Cisco Packet Tracer" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer" title="Oracle VM VirtualBox">
+    <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="42" height="42" alt="Oracle VM VirtualBox" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer" title="Windows Server">
+    <img src="https://cdn.simpleicons.org/windows/0078D4" width="42" height="42" alt="Windows Server" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer" title="Kali Linux">
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="42" height="42" alt="Kali Linux" />
+  </a>
+</p><p align="left">
+  <sub>Cisco Packet Tracer · Oracle VM VirtualBox · Windows Server · Kali Linux</sub>
+</p>🚀 Featured Projects | Proyectos destacados
 🏙️ UrbanFix
 A citizen-reporting platform to identify and track urban infrastructure issues in Morelia, Michoacán, Mexico. The project includes a citizen-facing application and an administrative dashboard.
 Plataforma de reportes ciudadanos para identificar y dar seguimiento a problemas de infraestructura urbana en Morelia, Michoacán, México. El proyecto contempla una aplicación para ciudadanos y un panel administrativo.
