@@ -1,14 +1,14 @@
-<div align="center">
-
-<img src="./banner.gif" width="100%" alt="Fernando Alcaraz" />
-
-<img src="./cat-mascot.gif" width="120" alt="Pixel-art cyber cat mascot" />
-
 # Hi, I'm Fernando Alcaraz 👋
 ### ¡Hola! Soy Fernando Alcaraz
 
 **Software Development Student | Cybersecurity Enthusiast**  
 **Estudiante de Desarrollo de Software | Entusiasta de la Ciberseguridad**
+
+<div align="center">
+
+<img src="./banner.gif" width="100%" alt="Fernando Alcaraz" />
+
+<img src="./cat-mascot.gif" width="120" alt="Pixel-art cyber cat mascot" />
 
 I enjoy building useful software, exploring how systems work, and learning how to make technology more secure.  
 Me gusta crear software útil, explorar cómo funcionan los sistemas y aprender a hacer la tecnología más segura.
