@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" alt="Fernando Alcaraz — Software Developer and Cybersecurity Enthusiast" />
+<img src="./banner.gif" width="100%" alt="Fernando Alcaraz" />
 
-<img src="./assets/cat-mascot.gif" width="120" alt="Pixel-art cyber cat mascot" />
+<img src="./cat-mascot.gif" width="120" alt="Pixel-art cyber cat mascot" />
 
 # Hi, I'm Fernando Alcaraz 👋
 ### ¡Hola! Soy Fernando Alcaraz
