@@ -1,14 +1,16 @@
-[README_Fernando_FINAL.md](https://github.com/user-attachments/files/34864125/README_Fernando_FINAL.md)
 <div align="center">
 
-<h1>Hi, I'm Fernando Alcaraz 👋</h1>
-<h3>¡Hola! Soy Fernando Alcaraz</h3>
+<img src="./assets/banner.gif" width="100%" alt="Fernando Alcaraz — Software Developer and Cybersecurity Enthusiast" />
+
+<img src="./assets/cat-mascot.gif" width="120" alt="Pixel-art cyber cat mascot" />
+
+# Hi, I'm Fernando Alcaraz 👋
+### ¡Hola! Soy Fernando Alcaraz
 
 **Software Development Student | Cybersecurity Enthusiast**  
 **Estudiante de Desarrollo de Software | Entusiasta de la Ciberseguridad**
 
-I enjoy building useful software, exploring how systems work, and learning how to make technology more secure.
-
+I enjoy building useful software, exploring how systems work, and learning how to make technology more secure.  
 Me gusta crear software útil, explorar cómo funcionan los sistemas y aprender a hacer la tecnología más segura.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FernandoAlcaraz115-181717?style=for-the-badge&logo=github)](https://github.com/FernandoAlcaraz115)
@@ -26,12 +28,15 @@ Me gusta crear software útil, explorar cómo funcionan los sistemas y aprender 
 - 🧠 I'm also interested in applied AI research, especially hallucination detection in large language models. / También me interesa la investigación aplicada en IA, especialmente la detección de alucinaciones en modelos de lenguaje.
 - 🚀 My goal is to keep growing as an engineer and contribute to technology projects with real-world impact. / Mi objetivo es seguir creciendo como ingeniero y contribuir a proyectos tecnológicos con impacto real.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" width="260" alt="Loop glitch animation by Death Orgone" />
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools | Tecnologías y herramientas
 
-*Tools and technologies I've used or am currently learning. This list reflects hands-on experience and ongoing learning, not necessarily professional mastery.*
-
+*Tools and technologies I've used or am currently learning. This list reflects hands-on experience and ongoing learning, not necessarily professional mastery.*  
 *Herramientas y tecnologías con las que he trabajado o que estoy aprendiendo. Esta lista refleja experiencia práctica y aprendizaje continuo, no necesariamente dominio profesional.*
 
 ### Programming Languages | Lenguajes de programación
@@ -142,8 +147,7 @@ Proyecto de investigación que explora métodos para identificar respuestas pote
 
 <div align="center">
 
-**Always learning. Always building. Always improving.** 🚀
-
+**Always learning. Always building. Always improving.** 🚀  
 **Siempre aprendiendo. Siempre construyendo. Siempre mejorando.**
 
 </div>
